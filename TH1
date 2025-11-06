@@ -1,4 +1,0 @@
-print("hello world")
-a = int(input('nhập giá trị a: '))
-b = int(input('nhập giá trị b: ')) 
-print(a+b)
